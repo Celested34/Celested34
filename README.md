@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### 🔭 I’m currently working on building from scratch my personal blog.
+### 🌱 I’m currently learning Python and Javascript.
+### 📫 How to reach me:email, Linkedin, Twitter.
+### 😄 Pronouns:(she/her)
+
+
+
+
 <!--
 **Celested34/Celested34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
