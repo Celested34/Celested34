@@ -7,6 +7,8 @@
 <p align='center'>
  <ol>
   <li> 🔭 I’m currently working on: <em> building my personal blog. </em> </li>
+ </ol> 
+</p>  
   <li> 🌱 I’m currently learning: <em> Python and Javascript. </em> </li>
   <li> 😄 Pronouns: <em> (she/her) </em> </li>
   <li> ✉️ How to reach me: <em> celested34@gmail.com </em> </li>
