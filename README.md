@@ -4,6 +4,8 @@
 ## 🌱 I’m currently learning: *Python and Javascript.*
 ## 😄 Pronouns: *(she/her)*
 ## ✉️ How to reach me: celested34@gmail.com
+
+<p align='center'>
 ## 🖥 Follow me on:
 
 <a href="https://www.twitter.com/in/celeste_des/">
@@ -12,6 +14,7 @@
 <a href="https://www.linkedin.com/in/celeste-de-santiago/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
+</p>
 
 
 
