@@ -3,11 +3,15 @@
 ## 🔭 I’m currently working on: *building my personal blog.*
 ## 🌱 I’m currently learning: *Python and Javascript.*
 ## 😄 Pronouns: *(she/her)*
-## ✉️ to reach me: celested34@gmail.com
+## ✉️ How to reach me: celested34@gmail.com
 ## 🖥 Follow me on:
 
 <a href="https://www.twitter.com/in/celeste_des/">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> [
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+  
+<a href="https://www.linkedin.com/in/celeste-de-santiago/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 
 
 
@@ -33,7 +37,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celested34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#Technology Stacks
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-blog is website definition in read file, just a place holder for all the urls that I have used.
-[blog]: https://eresh-zealous.medium.com/
+
