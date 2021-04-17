@@ -44,6 +44,8 @@
 
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celested34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celested34&layout=compact)](https://github.com/anuraghazra/github-readme-stats")</a>
+</p>   
 
 
