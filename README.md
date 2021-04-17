@@ -5,11 +5,11 @@
 </h1>
 
 <p align='center'>
- <ul>
+ <ul
  🔭 I’m currently working on: *building my personal blog.*
  🌱 I’m currently learning: *Python and Javascript.*
  😄 Pronouns: *(she/her)*
- ✉️ How to reach me: celested34@gmail.com
+ ✉️ How to reach me: celested34@gmail.com >
  </ul>
 </p>
 
