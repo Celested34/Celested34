@@ -1,4 +1,8 @@
+<h1 align='center'>
+
 # Hi there 👋
+
+</h1>
 
 ## 🔭 I’m currently working on: *building my personal blog.*
 ## 🌱 I’m currently learning: *Python and Javascript.*
