@@ -38,9 +38,10 @@
 
 
 
-![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celested34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celested34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
