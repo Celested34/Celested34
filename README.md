@@ -4,7 +4,7 @@
 
 </h1>
 
-<p align='center' style="font-size: 20px">
+<p align='center'> 
   🔭 &ensp; I’m currently working on: <em> building my personal blog. </em> 
 </p> 
 
