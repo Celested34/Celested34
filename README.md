@@ -13,9 +13,11 @@
  </ol>
 </p>
 
+<p align='center'>
+🖥 Follow me on:
+</p>
 
 <p align='center'>
-## 🖥 Follow me on:
 
 <a href="https://www.twitter.com/in/celeste_des/">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
