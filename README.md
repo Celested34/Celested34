@@ -14,7 +14,7 @@
 </p>
 
 <p align='center'>
-🖥 Follow me on:
+Follow me on:
 </p>
 
 <p align='center'>
