@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="center" ![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia) />
+<img align="center" alt="Celeste's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celested34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
