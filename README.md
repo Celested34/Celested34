@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <p>
 
- <img align="center" alt="Celeste's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia" />
+![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
 
 </p>
 
