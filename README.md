@@ -2,8 +2,11 @@
 
 ## 🔭 I’m currently working on: *building my personal blog.*
 ## 🌱 I’m currently learning: *Python and Javascript.*
-## 📫 How to reach me: *email, Linkedin, Twitter.*
 ## 😄 Pronouns: *(she/her)*
+
+## 📫 Reach me on:
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 
 
