@@ -3,10 +3,11 @@
 ## 🔭 I’m currently working on: *building my personal blog.*
 ## 🌱 I’m currently learning: *Python and Javascript.*
 ## 😄 Pronouns: *(she/her)*
+## ✉️ to reach me: celested34@gmail.com
+## 🖥 Follow me on:
 
-## 📫 Reach me on:
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.twitter.com/in/celeste_des/">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> [
 
 
 
