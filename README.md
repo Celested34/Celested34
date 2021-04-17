@@ -38,7 +38,7 @@
 
  
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia width='350')
    </a>
 </p>
  
