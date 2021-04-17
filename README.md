@@ -4,14 +4,14 @@
 
 </h1>
 
-<p1 align='center'>
+<p align='center'>
  <ol>
-  🔭 I’m currently working on: *building my personal blog.*
-  🌱 I’m currently learning: *Python and Javascript.*
-  😄 Pronouns: *(she/her)*
-  ✉️ How to reach me: celested34@gmail.com 
+  <li> 🔭 I’m currently working on: *building my personal blog.* </li>
+  <li> 🌱 I’m currently learning: *Python and Javascript.* </li>
+  <li> 😄 Pronouns: *(she/her)* </li>
+  <li> ✉️ How to reach me: celested34@gmail.com </li>
  </ol>
-</p1>
+</p>
 
 <p align='center'>
   Follow me on: 
