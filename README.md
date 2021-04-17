@@ -36,9 +36,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
+ 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
+   </a>
+</p>
+ 
 
 
 
