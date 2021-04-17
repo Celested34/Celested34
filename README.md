@@ -38,7 +38,7 @@
 
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
+&nbsp;&nbsp;&nbsp;&nbsp; ![Celeste's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celested34&?count_private=true&show_icons=true&theme=algolia)
 
 
 
