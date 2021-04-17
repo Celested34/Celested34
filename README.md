@@ -5,14 +5,22 @@
 </h1>
 
 <p align='center'>
-  🔭 I’m currently working on: <em> building my personal blog. </em> </li>
+  🔭 I’m currently working on: <em> building my personal blog. </em> 
 </p> 
 
-  <li> 🌱 I’m currently learning: <em> Python and Javascript. </em> </li>
-  <li> 😄 Pronouns: <em> (she/her) </em> </li>
-  <li> ✉️ How to reach me: <em> celested34@gmail.com </em> </li>
- </ol>
-</p>
+<p align='center'>
+   🌱 I’m currently learning: <em> Python and Javascript. </em> 
+</p> 
+
+<p align='center'>
+   😄 Pronouns: <em> (she/her) </em> 
+ </p>
+ 
+ <p align='center'>
+   ✉️ How to reach me: <em> celested34@gmail.com </em> 
+ </p>
+ 
+
 
 <p align='center'>
   Follow me on: 
