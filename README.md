@@ -4,10 +4,15 @@
 
 </h1>
 
+<p align='center'>
+ 
 ## 🔭 I’m currently working on: *building my personal blog.*
 ## 🌱 I’m currently learning: *Python and Javascript.*
 ## 😄 Pronouns: *(she/her)*
 ## ✉️ How to reach me: celested34@gmail.com
+
+</p>
+
 
 <p align='center'>
 ## 🖥 Follow me on:
