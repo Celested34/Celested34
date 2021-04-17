@@ -4,19 +4,17 @@
 
 </h1>
 
-<p align='center'>
+<p1 align='center'>
  <ol>
- 🔭 I’m currently working on: *building my personal blog.*
- 🌱 I’m currently learning: *Python and Javascript.*
- 😄 Pronouns: *(she/her)*
- ✉️ How to reach me: celested34@gmail.com 
+  🔭 I’m currently working on: *building my personal blog.*
+  🌱 I’m currently learning: *Python and Javascript.*
+  😄 Pronouns: *(she/her)*
+  ✉️ How to reach me: celested34@gmail.com 
  </ol>
-</p>
+</p1>
 
 <p align='center'>
- 
-  Follow me on:
-  
+  Follow me on: 
 </p>
 
 <p align='center'>
