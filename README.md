@@ -7,9 +7,9 @@
 <p align='center'>
  <ol>
   <li> 🔭 I’m currently working on: <em> building my personal blog. </em> </li>
-  <li> 🌱 I’m currently learning: *Python and Javascript.* </li>
-  <li> 😄 Pronouns: *(she/her)* </li>
-  <li> ✉️ How to reach me: celested34@gmail.com </li>
+  <li> 🌱 I’m currently learning: <em> Python and Javascript. </em> </li>
+  <li> 😄 Pronouns: <em> (she/her) </em> </li>
+  <li> ✉️ How to reach me: <em> celested34@gmail.com </em> </li>
  </ol>
 </p>
 
